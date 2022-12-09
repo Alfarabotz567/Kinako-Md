@@ -94,9 +94,9 @@ global.intro = 'https://i.ibb.co/PxSxQhd/20221103-171638.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = `${global.nameown}`
 global.umurowner = '18'
-global.asalowner = 'Isekai'
-global.nomorowner = 'wa.me/6282217590187'
-global.pacarowner = 'Kinako chan><'
+global.asalowner = 'TasikMalaya'
+global.nomorowner = 'wa.me/6285624823115'
+global.pacarowner = 'Reva chan><'
 
 /*============== TEXT ==============*/
 global.wait = '_In progress, please wait..._'
